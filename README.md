@@ -1,1 +1,1 @@
-# Knowledge-Graph
+在实习期间，为公司知识图谱培训所做的ppt
